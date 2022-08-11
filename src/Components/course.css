@@ -1,0 +1,9 @@
+.courseTable{
+    border: none;
+    margin:0vh 10vw;
+    align-items: center;
+}
+thead{
+    border:none;
+    background-color: aqua;
+}

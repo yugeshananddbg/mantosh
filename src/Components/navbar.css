@@ -1,0 +1,39 @@
+nav {
+    background-color: wheat;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 2vmax;
+}
+
+.logo {
+    padding: 1vmax;
+    color: brown;
+    font-size: xx-large;
+
+    align-items: left;
+}
+
+.logo:hover {
+    background-color: brown;
+    border-radius: 5px;
+    color: white;
+}
+
+.menuItem {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+.link {
+    padding: 0px 10px;
+    font-size: x-large;
+    color: white;
+
+}
+
+.link:hover {
+    color: red;
+}
